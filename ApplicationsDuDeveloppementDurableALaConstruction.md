@@ -59,6 +59,7 @@ officialise la notion de développement durable et celle des trois piliers
 
 
 ### Objectifs Chapitre 1
+*A savoir par coeur*
 
 Définition développement durable.
 
@@ -81,5 +82,32 @@ Principes du développement durable.
 * Equité
 
 [Plus d'infos](http://www.ente-aix.fr/documents/149-COURS-AFD-les-principes-du-DD-VFinale-mai2012.pdf)
+
+Diverses applications du développement durable.
+
+* La Stratégie Nationale de développement durable (SNDD)
+* L'éco-responsabilité
+* La responsabilité sociale des entreprises
+* Le rapport de développement durable
+* Le commerce équitable
+* L'Agenda 21
+* L'Agenda 21 local
+    * En France
+        *  LOADDT - Lois d'Orientation pour L'Aménagement et le Développement Durable des Territoires.
+        *  SRU - Loi de Solidarité et de Renouvellement Urbain
+
+Définir un Agenda 21 Local
+
+C'est un programme d'agenda 21 à l'échelle locale intégrant les principes du 
+développement durable à partir d'un mécanisme de consultation de la population.
+
+En France, le Ministère de la Transition Ecologique et Solidaire a fixé un cadre
+de référence pour leur mise en place.
+* lutte contre le changement climatique et protection de l'atmosphère.
+* préservation  de la biodiversité
+* épanouissement de tous les êtres humains
+* cohésion sociale et solidarité entre territoires et entre générations
+* dynamique de développement suivant des modes de productions et de consommations responsables
+
 
 
