@@ -1,0 +1,46 @@
+# Applications du développement durable liées à la construction.
+
+## Chapitre 1
+
+### Développement durable.
+
+#### Un peu d'écologie
+
+ECOLOGIE : Nom formé de deux racines grecques :
+
+"éco-" correspond au nom "oikos" qui signifie "la maison".
+"-logie" correspond au nom "logos" qui signifie "le discours, la parole, la 
+science". D'après son étymologie "ECOLOGIE" signifie donc : le discours, la 
+science de la maison.
+
+La planète Terre est un système écologique.
+
+Aujourd'hui de part son mode de développement, l'homme est en train de détruire 
+ses conditions de survie sur terre.
+
+En 1972, lors du sommet de Stockholm, il y a eu prise de conscience de la 
+nécéssité de prendre en compte la notion de développement durable. 
+
+Le développement durable est 
+> Un développement qui répond aux besoins du 
+présent sans compromettre la capacité des générations futures à répondre
+aux leurs », citation de Mme Gro Harlem Brundtland, Premier Ministre norvégien 
+(1987).
+
+En 1992, le Sommet de la Terre à Rio, tenu sous l'égide des Nations unies,
+officialise la notion de développement durable et celle des trois piliers 
+(économie/écologie/social) : 
+
+*Le développement durable est :*
+
+> un développement économiquement efficace, socialement équitable et 
+écologiquement soutenable.
+
+##### Les principes du développement durable sont :
+* La solidarité
+* La participation et la bonne gouvernance
+* La précaution
+
+####  Tout le monde est concerné par le développement durable.
+* Associations
+* Institutions publiques et privées ...
