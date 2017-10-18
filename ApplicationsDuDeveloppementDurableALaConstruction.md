@@ -43,4 +43,43 @@ officialise la notion de développement durable et celle des trois piliers
 
 ####  Tout le monde est concerné par le développement durable.
 * Associations
-* Institutions publiques et privées ...
+* Institutions publiques et privées...
+
+#### Diverses applications
+* La Stratégie Nationale de développement durable (SNDD)
+* L'éco-responsabilité
+* La responsabilité sociale des entreprises
+* Le rapport de développement durable
+* Le commerce équitable
+* L'Agenda 21
+* L'Agenda 21 local
+    * En France
+        *  LOADDT - Lois d'Orientation pour L'Aménagement et le Développement Durable des Territoires.
+        *  SRU - Loi de Solidarité et de Renouvellement Urbain
+
+
+### Objectifs Chapitre 1
+
+Définition développement durable.
+
+> C'est un développement qui répond aux besoins de présent sans compromettre la 
+possibilité, pour les générations à venir, de pouvooir répondre à leurs propres 
+besoins.
+
+Composants du développement durable.
+
+* L'économie
+* Le social
+* L'environnement
+
+Principes du développement durable.
+* Précaution
+* Prévention
+* Responsabilité
+* Pollueur-payeur
+* Droit à l'information
+* Equité
+
+[Plus d'infos](http://www.ente-aix.fr/documents/149-COURS-AFD-les-principes-du-DD-VFinale-mai2012.pdf)
+
+
